@@ -9,6 +9,10 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+/* ---------------------------------------------------------------- */
+/* -------------------------- Iterative . -------------------------- */
+
 class Solution
 {
 public:
@@ -30,19 +34,21 @@ public:
             }
             current = current->next;
         }
-        while (l1)
+        if (l1!=nullptr)
         {
             current->next = l1;
-            current = current->next;
-            l1 = l1->next;
         }
-        while (l2)
+        else
         {
             current->next = l2;
-            current = current->next;
-            l2 = l2->next;
         }
 
         return head->next;
     }
 };
+
+//TODO : ADD Code For Recursion .
+/* ---------------------------------------------------------------- */
+/* -------------------------- RECURSION -------------------------- */
+
+
