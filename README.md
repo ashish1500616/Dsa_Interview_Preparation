@@ -228,7 +228,7 @@ Checkout **Solution** Branch For Solutions .
 | 4:                                     | Intersection_of_linked_lists                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | 5:                                     | Length_of_longest_palindromic_list                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | 6:                                     | List_cycle                                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
-| 7:                                     | Merge_two_sorted_lists                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Merge_two_sorted_lists                                                      |<ul><li> C++ :white_check_mark: </li><li> Java :white_check_mark: </li><li> Python :white_check_mark: </li> <li> Explanation. </li></ul>
 | 8:                                     | Middle_element_of_linked_list                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | 9:                                     | Remove_duplicates_from_sorted_list                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | 10:                                    | Remove_duplicates_from_sorted_list_ii                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
