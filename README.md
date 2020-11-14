@@ -2,348 +2,348 @@ Important Question For FAANG Preparation .
 
 Checkout **Solution** Branch For Solutions .
 
-| Topics                                 | Question                                                                    |
-| -------------------------------------- | --------------------------------------------------------------------------- |
+| Topics                                 | Question                                                                    | Status
+| -------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------
 | **Arrays**                             |
-| 1:                                     | Add_one_to_number                                                           |
-| 2:                                     | Beggars_outside_temple                                                      |
-| 3:                                     | Bob_and_queries                                                             |
-| 4:                                     | Count_of_range_sum                                                          |
-| 5:                                     | Count_of_smaller_numbers_after_self                                         |
-| 6:                                     | Count_pairs_in_array_whose_sum_is_divisible_by_the_given_number             |
-| 7:                                     | Falling_squares                                                             |
-| 8:                                     | First_missing_integer                                                       |
-| 9:                                     | Flight_range_bookings                                                       |
-| 10:                                    | Inversion_count_in_an_array                                                 |
-| 11:                                    | Kth_row_of_pascal's_triangle                                                |
-| 12:                                    | Length_of_longest_consecutive_ones                                          |
-| 13:                                    | Max_non_negative_subarray                                                   |
-| 14:                                    | Max_sum_contiguous_subarray                                                 |
-| 15:                                    | Maximum_absolute_difference                                                 |
-| 16:                                    | Maximum_consecutive_gap                                                     |
-| 17:                                    | Maximum_difference                                                          |
-| 18:                                    | Maximum_positivity                                                          |
-| 19:                                    | Minimum_picks                                                               |
-| 20:                                    | N 3_repeat_number                                                           |
-| 21:                                    | Next_permutation                                                            |
-| 22:                                    | Number*of_sextuplets*(or_six_values)\_that_satisfy_an_equation              |
-| 23:                                    | Pascal_triangle                                                             |
-| 24:                                    | Reading_newspaper                                                           |
-| 25:                                    | Repeat_and_missing_number_array                                             |
-| 26:                                    | Reverse_pairs                                                               |
-| 27:                                    | Search_in_a_row_wise_and_column_wise_sorted_matrix                          |
-| 28:                                    | Set_matrix_zeros                                                            |
-| 29:                                    | Size_three_subsequences_divisible_by_b                                      |
-| 30:                                    | Spiral_order_matrix_ii                                                      |
-| 31:                                    | Sub_matrix_sum_queries                                                      |
-| 32:                                    | Sum_of_adjacent_elements_is_always_even                                     |
-| 33:                                    | Sum_the_difference                                                          |
-| 34:                                    | Toeplitz_matrix                                                             |
+| 1:                                     | Add_one_to_number                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Beggars_outside_temple                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Bob_and_queries                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Count_of_range_sum                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Count_of_smaller_numbers_after_self                                         |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Count_pairs_in_array_whose_sum_is_divisible_by_the_given_number             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Falling_squares                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | First_missing_integer                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Flight_range_bookings                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Inversion_count_in_an_array                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Kth_row_of_pascal's_triangle                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Length_of_longest_consecutive_ones                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Max_non_negative_subarray                                                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Max_sum_contiguous_subarray                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | Maximum_absolute_difference                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Maximum_consecutive_gap                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 17:                                    | Maximum_difference                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 18:                                    | Maximum_positivity                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 19:                                    | Minimum_picks                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 20:                                    | N 3_repeat_number                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 21:                                    | Next_permutation                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 22:                                    | Number*of_sextuplets*(or_six_values)\_that_satisfy_an_equation              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 23:                                    | Pascal_triangle                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 24:                                    | Reading_newspaper                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 25:                                    | Repeat_and_missing_number_array                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 26:                                    | Reverse_pairs                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 27:                                    | Search_in_a_row_wise_and_column_wise_sorted_matrix                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 28:                                    | Set_matrix_zeros                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 29:                                    | Size_three_subsequences_divisible_by_b                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 30:                                    | Spiral_order_matrix_ii                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 31:                                    | Sub_matrix_sum_queries                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 32:                                    | Sum_of_adjacent_elements_is_always_even                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 33:                                    | Sum_the_difference                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 34:                                    | Toeplitz_matrix                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Backtracking**                       |
-| 1:                                     | All_unique_permutations                                                     |
-| 2:                                     | Combination_sum_ii                                                          |
-| 3:                                     | Generate_all_parentheses_ii                                                 |
-| 4:                                     | Gray_code                                                                   |
-| 5:                                     | Kth_permutation_sequence                                                    |
-| 6:                                     | Letter_phone                                                                |
-| 7:                                     | Minimum_number_of_swaps_required_for_arranging_pairs_adjacent_to_each_other |
-| 8:                                     | Modular_expression                                                          |
-| 9:                                     | Nqueens                                                                     |
-| 10:                                    | Number_of_squareful_arrays                                                  |
-| 11:                                    | Palindrome_partitioning                                                     |
-| 12:                                    | Permutations                                                                |
-| 13:                                    | Shuttle_puzzle_problem                                                      |
-| 14:                                    | Sixlets                                                                     |
-| 15:                                    | Subset                                                                      |
-| 16:                                    | Subsets_ii                                                                  |
-| 17:                                    | Sudoku                                                                      |
-| 18:                                    | Unique_paths_iii                                                            |
-| 19:                                    | Vertical_and_horizontal_sums                                                |
+| 1:                                     | All_unique_permutations                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Combination_sum_ii                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Generate_all_parentheses_ii                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Gray_code                                                                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Kth_permutation_sequence                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Letter_phone                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Minimum_number_of_swaps_required_for_arranging_pairs_adjacent_to_each_other |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Modular_expression                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Nqueens                                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Number_of_squareful_arrays                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Palindrome_partitioning                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Permutations                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Shuttle_puzzle_problem                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Sixlets                                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | Subset                                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Subsets_ii                                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 17:                                    | Sudoku                                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 18:                                    | Unique_paths_iii                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 19:                                    | Vertical_and_horizontal_sums                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Binary_search**                      |
-| 1:                                     | Aggressive_cows                                                             |
-| 2:                                     | Allocate_books                                                              |
-| 3:                                     | Ath_magical_number                                                          |
-| 4:                                     | Cute_binary_arrays                                                          |
-| 5:                                     | Distribute_candies                                                          |
-| 6:                                     | Find_a_peak_element                                                         |
-| 7:                                     | Hire_candidates                                                             |
-| 8:                                     | Kth_smallest_element_in_the_array                                           |
-| 9:                                     | Matrix_median                                                               |
-| 10:                                    | Matrix_search                                                               |
-| 11:                                    | Median_of_array                                                             |
-| 12:                                    | Painter's_partition_problem                                                 |
-| 13:                                    | Product_of_sums                                                             |
-| 14:                                    | Rotated_sorted_array_search                                                 |
-| 15:                                    | Scared_rishik                                                               |
-| 16:                                    | Search_for_a_range                                                          |
-| 17:                                    | Single_element_in_a_sorted_array                                            |
-| 18:                                    | Smallest_good_base                                                          |
-| 19:                                    | Special_integer                                                             |
-| 20:                                    | Square_root_of_integer                                                      |
+| 1:                                     | Aggressive_cows                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Allocate_books                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Ath_magical_number                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Cute_binary_arrays                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Distribute_candies                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Find_a_peak_element                                                         |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Hire_candidates                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Kth_smallest_element_in_the_array                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Matrix_median                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Matrix_search                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Median_of_array                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Painter's_partition_problem                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Product_of_sums                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Rotated_sorted_array_search                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | Scared_rishik                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Search_for_a_range                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 17:                                    | Single_element_in_a_sorted_array                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 18:                                    | Smallest_good_base                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 19:                                    | Special_integer                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 20:                                    | Square_root_of_integer                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Bit_manipulation**                   |
-| 1:                                     | Different_bits_sum_pairwise                                                 |
-| 2:                                     | Divide_integers                                                             |
-| 3:                                     | Interesting_array                                                           |
-| 4:                                     | Min_xor_value                                                               |
-| 5:                                     | Reverse_bits                                                                |
-| 6:                                     | Single_number                                                               |
-| 7:                                     | Single_number_ii                                                            |
-| 8:                                     | Smallest_xor                                                                |
-| 9:                                     | Sweet_dish                                                                  |
-| 10:                                    | Xor_queries                                                                 |
+| 1:                                     | Different_bits_sum_pairwise                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Divide_integers                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Interesting_array                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Min_xor_value                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Reverse_bits                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Single_number                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Single_number_ii                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Smallest_xor                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Sweet_dish                                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Xor_queries                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Dynamic_programming**                |
-| 1:                                     | All_the_permutations                                                        |
-| 2:                                     | Balls_in_boxes                                                              |
-| 3:                                     | Best_time_to_buy_and_sell_stocks_i                                          |
-| 4:                                     | Best_time_to_buy_and_sell_stocks_ii                                         |
-| 5:                                     | Box_stacking_problem                                                        |
-| 6:                                     | Burst_balloons                                                              |
-| 7:                                     | Coin_sum_infinite                                                           |
-| 8:                                     | Coins_in_a_line                                                             |
-| 9:                                     | Cut_the_rod                                                                 |
-| 10:                                    | Distinct_subsequences                                                       |
-| 11:                                    | Dungeon_princess                                                            |
-| 12:                                    | Edit_distance                                                               |
-| 13:                                    | Evaluate_expression_to_true                                                 |
-| 14:                                    | Flip_array                                                                  |
-| 15:                                    | Interleaving_strings                                                        |
-| 16:                                    | Intersecting_chords_in_a_circle                                             |
-| 17:                                    | Kingdom_war                                                                 |
-| 18:                                    | Length_of_longest_fibonacci_subsequence                                     |
-| 19:                                    | Length_of_longest_subsequence                                               |
-| 20:                                    | Let's_party                                                                 |
-| 21:                                    | Longest_arithmetic_progression                                              |
-| 22:                                    | Longest_balanced_substring                                                  |
-| 23:                                    | Longest_common_subsequence                                                  |
-| 24:                                    | Longest_increasing_subsequence                                              |
-| 25:                                    | Longest_pallindromic_subsequence                                            |
-| 26:                                    | Longest_valid_parentheses                                                   |
-| 27:                                    | Matrix_chain_multiplication                                                 |
-| 28:                                    | Max_product_subarray                                                        |
-| 29:                                    | Max_rectangle_in_binary_matrix                                              |
-| 30:                                    | Max_sum_path_in_binary_tree                                                 |
-| 31:                                    | Maximize_power                                                              |
-| 32:                                    | Maximum_sum                                                                 |
-| 33:                                    | Micro_and_lucky_tree                                                        |
-| 34:                                    | Min_jumps_array                                                             |
-| 35:                                    | Min_sum_path_in_matrix                                                      |
-| 36:                                    | Minimum_number_of_squares                                                   |
-| 37:                                    | N_digit_numbers_with_digit_sum_s                                            |
-| 38:                                    | Odd_palindrome                                                              |
-| 39:                                    | Palindrome_partitioning_ii                                                  |
-| 40:                                    | Regular_expression_ii                                                       |
-| 41:                                    | Regular_expression_match                                                    |
-| 42:                                    | Remove_trees                                                                |
-| 43:                                    | Repeating_sub sequence                                                      |
-| 44:                                    | Rod_cutting                                                                 |
-| 45:                                    | Russian_doll_envelopes                                                      |
-| 46:                                    | Scooby_and_beautiful_strings                                                |
-| 47:                                    | Special_statue                                                              |
-| 48:                                    | Stairs                                                                      |
-| 49:                                    | String_count                                                                |
-| 50:                                    | The_ghost_type                                                              |
-| 51:                                    | Tushar's_birthday_party                                                     |
-| 52:                                    | Unique_binary_search_trees_ii                                               |
-| 53:                                    | Unique_paths_in_a_grid                                                      |
-| 54:                                    | Valuable_nodes                                                              |
-| 55:                                    | Ways_to_decode                                                              |
-| 56:                                    | Word_break                                                                  |
-| 57:                                    | Word_break_ii                                                               |
+| 1:                                     | All_the_permutations                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Balls_in_boxes                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Best_time_to_buy_and_sell_stocks_i                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Best_time_to_buy_and_sell_stocks_ii                                         |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Box_stacking_problem                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Burst_balloons                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Coin_sum_infinite                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Coins_in_a_line                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Cut_the_rod                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Distinct_subsequences                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Dungeon_princess                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Edit_distance                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Evaluate_expression_to_true                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Flip_array                                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | Interleaving_strings                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Intersecting_chords_in_a_circle                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 17:                                    | Kingdom_war                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 18:                                    | Length_of_longest_fibonacci_subsequence                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 19:                                    | Length_of_longest_subsequence                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 20:                                    | Let's_party                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 21:                                    | Longest_arithmetic_progression                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 22:                                    | Longest_balanced_substring                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 23:                                    | Longest_common_subsequence                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 24:                                    | Longest_increasing_subsequence                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 25:                                    | Longest_pallindromic_subsequence                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 26:                                    | Longest_valid_parentheses                                                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 27:                                    | Matrix_chain_multiplication                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 28:                                    | Max_product_subarray                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 29:                                    | Max_rectangle_in_binary_matrix                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 30:                                    | Max_sum_path_in_binary_tree                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 31:                                    | Maximize_power                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 32:                                    | Maximum_sum                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 33:                                    | Micro_and_lucky_tree                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 34:                                    | Min_jumps_array                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 35:                                    | Min_sum_path_in_matrix                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 36:                                    | Minimum_number_of_squares                                                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 37:                                    | N_digit_numbers_with_digit_sum_s                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 38:                                    | Odd_palindrome                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 39:                                    | Palindrome_partitioning_ii                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 40:                                    | Regular_expression_ii                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 41:                                    | Regular_expression_match                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 42:                                    | Remove_trees                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 43:                                    | Repeating_sub sequence                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 44:                                    | Rod_cutting                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 45:                                    | Russian_doll_envelopes                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 46:                                    | Scooby_and_beautiful_strings                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 47:                                    | Special_statue                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 48:                                    | Stairs                                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 49:                                    | String_count                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 50:                                    | The_ghost_type                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 51:                                    | Tushar's_birthday_party                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 52:                                    | Unique_binary_search_trees_ii                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 53:                                    | Unique_paths_in_a_grid                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 54:                                    | Valuable_nodes                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 55:                                    | Ways_to_decode                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 56:                                    | Word_break                                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 57:                                    | Word_break_ii                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Graph*data_structure*&\_algorithms** |
-| 1:                                     | Black_shapes                                                                |
-| 2:                                     | Capture_regions_on_board                                                    |
-| 3:                                     | Check_whether_the_graph_is_bipartide_or_not                                 |
-| 4:                                     | Commutable_islands                                                          |
-| 5:                                     | Dijsktra                                                                    |
-| 6:                                     | Knight_on_chess_board                                                       |
-| 7:                                     | Maximum_depth                                                               |
-| 8:                                     | Number_of_islands                                                           |
-| 9:                                     | Possibility_of_finishing_all_courses_given_pre requisites                   |
-| 10:                                    | Rotten_oranges                                                              |
-| 11:                                    | Rust_and_his_transfer                                                       |
-| 12:                                    | Shortest_distance_in_a_maze                                                 |
-| 13:                                    | Smallest_multiple_with_0_and_1                                              |
-| 14:                                    | Smallest_sequence_with_given_primes                                         |
-| 15:                                    | Smallest_string                                                             |
-| 16:                                    | Word_ladder_i                                                               |
-| 17:                                    | Word_ladder_ii                                                              |
+| 1:                                     | Black_shapes                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Capture_regions_on_board                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Check_whether_the_graph_is_bipartide_or_not                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Commutable_islands                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Dijsktra                                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Knight_on_chess_board                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Maximum_depth                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Number_of_islands                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Possibility_of_finishing_all_courses_given_pre requisites                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Rotten_oranges                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Rust_and_his_transfer                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Shortest_distance_in_a_maze                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Smallest_multiple_with_0_and_1                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Smallest_sequence_with_given_primes                                         |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | Smallest_string                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Word_ladder_i                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 17:                                    | Word_ladder_ii                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Greedy_algorithm**                   |
-| 1:                                     | Area_under_the_hills                                                        |
-| 2:                                     | Binary_strings                                                              |
-| 3:                                     | Bus_and_passenger                                                           |
-| 4:                                     | Candies_in_box                                                              |
-| 5:                                     | Chocolate_distribution                                                      |
-| 6:                                     | Distribute_candy                                                            |
-| 7:                                     | Gas_station                                                                 |
-| 8:                                     | Gcd_ordering                                                                |
-| 9:                                     | Higher_rating_higher_holidays.                                              |
-| 10:                                    | Majority_element                                                            |
-| 11:                                    | Minimum_cost_to_hire_k_workers                                              |
-| 12:                                    | Rishik_in_a_race                                                            |
-| 13:                                    | Seats                                                                       |
-| 14:                                    | Stacking_cubes                                                              |
-| 15:                                    | The_ship_company                                                            |
-| 16:                                    | Weight_collection                                                           |
+| 1:                                     | Area_under_the_hills                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Binary_strings                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Bus_and_passenger                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Candies_in_box                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Chocolate_distribution                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Distribute_candy                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Gas_station                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Gcd_ordering                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Higher_rating_higher_holidays.                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Majority_element                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Minimum_cost_to_hire_k_workers                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Rishik_in_a_race                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Seats                                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Stacking_cubes                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | The_ship_company                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Weight_collection                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Hashing**                            |
-| 1:                                     | Anagrams                                                                    |
-| 2:                                     | Count_right_triangles                                                       |
-| 3:                                     | Diffk_ii                                                                    |
-| 4:                                     | Equal                                                                       |
-| 5:                                     | Find_if_there_is_a_sub array_with_0_sum                                     |
-| 6:                                     | Find_pairs_in_array_whose_sum_is_already_present                            |
-| 7:                                     | Grid_illumination                                                           |
-| 8:                                     | Largest_continuous_sequence_zero_sum                                        |
-| 9:                                     | Lightsabers                                                                 |
-| 10:                                    | Longest_consecutive_sequence                                                |
-| 11:                                    | Longest_substring_without_repeat                                            |
-| 12:                                    | Maximum_points_on_the_same_line                                             |
-| 13:                                    | Palindrome_pairs                                                            |
-| 14:                                    | Parity_queries                                                              |
-| 15:                                    | Queries_on_binary_tree                                                      |
-| 16:                                    | Sort_an_array_according_to_the_order_defined_by_another_array               |
-| 17:                                    | Valid_sudoku                                                                |
-| 18:                                    | Window_string                                                               |
+| 1:                                     | Anagrams                                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Count_right_triangles                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Diffk_ii                                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Equal                                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Find_if_there_is_a_sub array_with_0_sum                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Find_pairs_in_array_whose_sum_is_already_present                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Grid_illumination                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Largest_continuous_sequence_zero_sum                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Lightsabers                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Longest_consecutive_sequence                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Longest_substring_without_repeat                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Maximum_points_on_the_same_line                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Palindrome_pairs                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Parity_queries                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | Queries_on_binary_tree                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Sort_an_array_according_to_the_order_defined_by_another_array               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 17:                                    | Valid_sudoku                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 18:                                    | Window_string                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Heaps_and_maps**                     |
-| 1:                                     | Activity_selection                                                          |
-| 2:                                     | B_closest_points_to_origin                                                  |
-| 3:                                     | Connect_ropes_with_minimum_length                                           |
-| 4:                                     | Find_rectangle_in_binary_matrix                                             |
-| 5:                                     | Good_ranges                                                                 |
-| 6:                                     | Job_sequencing                                                              |
-| 7:                                     | Longest_subarray_sum_b                                                      |
-| 8:                                     | Magician_and_chocolates                                                     |
-| 9:                                     | Meeting_rooms                                                               |
-| 10:                                    | Merge_k_sorted_lists                                                        |
-| 11:                                    | Minimum_largest_element_after_k_operations                                  |
-| 12:                                    | N_max_pair_combinations                                                     |
-| 13:                                    | Petrol_prices                                                               |
-| 14:                                    | Scooby_likes_the_kth_element                                                |
-| 15:                                    | Task_scheduler                                                              |
-| 16:                                    | Ways_to_form_max_heap                                                       |
-| 17:                                    | Ways_to_form_max_heap_2                                                     |
+| 1:                                     | Activity_selection                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | B_closest_points_to_origin                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Connect_ropes_with_minimum_length                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Find_rectangle_in_binary_matrix                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Good_ranges                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Job_sequencing                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Longest_subarray_sum_b                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Magician_and_chocolates                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Meeting_rooms                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Merge_k_sorted_lists                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Minimum_largest_element_after_k_operations                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | N_max_pair_combinations                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Petrol_prices                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Scooby_likes_the_kth_element                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | Task_scheduler                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Ways_to_form_max_heap                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 17:                                    | Ways_to_form_max_heap_2                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Linked_lists**                       |
-| 1:                                     | Add_two_numbers_as_lists                                                    |
-| 2:                                     | Delete_middle_node_of_a_linked_list                                         |
-| 3:                                     | Detect_and_remove_loop_from_a_linked_list                                   |
-| 4:                                     | Intersection_of_linked_lists                                                |
-| 5:                                     | Length_of_longest_palindromic_list                                          |
-| 6:                                     | List_cycle                                                                  |
-| 7:                                     | Merge_two_sorted_lists                                                      |
-| 8:                                     | Middle_element_of_linked_list                                               |
-| 9:                                     | Remove_duplicates_from_sorted_list                                          |
-| 10:                                    | Remove_duplicates_from_sorted_list_ii                                       |
-| 11:                                    | Remove_nth_node_from_list_end                                               |
-| 12:                                    | Swap_list_nodes_in_pairs                                                    |
+| 1:                                     | Add_two_numbers_as_lists                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Delete_middle_node_of_a_linked_list                                         |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Detect_and_remove_loop_from_a_linked_list                                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Intersection_of_linked_lists                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Length_of_longest_palindromic_list                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | List_cycle                                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Merge_two_sorted_lists                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Middle_element_of_linked_list                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Remove_duplicates_from_sorted_list                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Remove_duplicates_from_sorted_list_ii                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Remove_nth_node_from_list_end                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Swap_list_nodes_in_pairs                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Math**                               |
-| 1:                                     | City_tour                                                                   |
-| 2:                                     | Count_of_divisors_for_multiple_queries                                      |
-| 3:                                     | Count_of_paths_in_a_grid                                                    |
-| 4:                                     | Day_of_the_week                                                             |
-| 5:                                     | Excel_column_title                                                          |
-| 6:                                     | Find_if_two_rectangles_overlap                                              |
-| 7:                                     | Find_nth_magic_number                                                       |
-| 8:                                     | Finding_position                                                            |
-| 9:                                     | Is_it_a_parabola?                                                           |
-| 10:                                    | Largest_coprime_divisor                                                     |
-| 11:                                    | Maximum_height_of_the_staircase                                             |
-| 12:                                    | Maximum_product                                                             |
-| 13:                                    | Maximum_xor_of_two_numbers_in_an_array                                      |
-| 14:                                    | Number_of_digit_one                                                         |
-| 15:                                    | Number_of_open_doors                                                        |
-| 16:                                    | Powerful_array                                                              |
-| 17:                                    | Rectangle_area                                                              |
-| 18:                                    | Solve_sub sequences_and_return_or                                           |
-| 19:                                    | Sorted_permutation_rank                                                     |
-| 20:                                    | Strobogrammatic_number_iii                                                  |
-| 21:                                    | Sum_of_pairwise_hamming_distance                                            |
-| 22:                                    | Trailing_zeros_in_factorial                                                 |
+| 1:                                     | City_tour                                                                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Count_of_divisors_for_multiple_queries                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Count_of_paths_in_a_grid                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Day_of_the_week                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Excel_column_title                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Find_if_two_rectangles_overlap                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Find_nth_magic_number                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Finding_position                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Is_it_a_parabola?                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Largest_coprime_divisor                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Maximum_height_of_the_staircase                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Maximum_product                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Maximum_xor_of_two_numbers_in_an_array                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Number_of_digit_one                                                         |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | Number_of_open_doors                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Powerful_array                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 17:                                    | Rectangle_area                                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 18:                                    | Solve_sub sequences_and_return_or                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 19:                                    | Sorted_permutation_rank                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 20:                                    | Strobogrammatic_number_iii                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 21:                                    | Sum_of_pairwise_hamming_distance                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 22:                                    | Trailing_zeros_in_factorial                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Permutation\_&_combination**         |
-| 1:                                     | Ukulele_maestro                                                             |
+| 1:                                     | Ukulele_maestro                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Stacks_and_queues**                  |
-| 1:                                     | First_negative_integer_in_window_size_b                                     |
-| 2:                                     | First_non repeating_character_in_a_stream_of_characters                     |
-| 3:                                     | Largest_rectangle_in_histogram                                              |
-| 4:                                     | Max_and_min                                                                 |
-| 5:                                     | N_integers_containing_only_1,2_and_3                                        |
-| 6:                                     | Nearest_smaller_element                                                     |
-| 7:                                     | Rain_water_trapped                                                          |
-| 8:                                     | Redundant_braces                                                            |
-| 9:                                     | Reversing_the_first_b_elements_of_queue                                     |
-| 10:                                    | Sliding_window_maximum                                                      |
-| 11:                                    | Sum_of_minimum_and_maximum_elements_of_all_subarrays_of_size_k              |
+| 1:                                     | First_negative_integer_in_window_size_b                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | First_non repeating_character_in_a_stream_of_characters                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Largest_rectangle_in_histogram                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Max_and_min                                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | N_integers_containing_only_1,2_and_3                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Nearest_smaller_element                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Rain_water_trapped                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Redundant_braces                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Reversing_the_first_b_elements_of_queue                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Sliding_window_maximum                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Sum_of_minimum_and_maximum_elements_of_all_subarrays_of_size_k              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Strings**                            |
-| 1:                                     | Amazing_problem                                                             |
-| 2:                                     | Boring_substring                                                            |
-| 3:                                     | Closest_palindrome                                                          |
-| 4:                                     | Compare_version_numbers                                                     |
-| 5:                                     | Custom_sort_string                                                          |
-| 6:                                     | Even_odd_encryption                                                         |
-| 7:                                     | Integer_to_roman                                                            |
-| 8:                                     | Longest_common_prefix                                                       |
-| 9:                                     | Longest_palindromic_substring                                               |
-| 10:                                    | Minimum_characters_required_to_make_a_string_palindromic                    |
-| 11:                                    | Palindromic_substrings_count                                                |
-| 12:                                    | Reverse_the_string                                                          |
-| 13:                                    | Roman_to_integer                                                            |
-| 14:                                    | Same_format_string                                                          |
+| 1:                                     | Amazing_problem                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Boring_substring                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Closest_palindrome                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Compare_version_numbers                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Custom_sort_string                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Even_odd_encryption                                                         |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Integer_to_roman                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Longest_common_prefix                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Longest_palindromic_substring                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Minimum_characters_required_to_make_a_string_palindromic                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Palindromic_substrings_count                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Reverse_the_string                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Roman_to_integer                                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Same_format_string                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Time_complexity**                    |
-| 1:                                     | Distance_of_nearest_cell_having_1_in_a_binary_matrix                        |
-| 2:                                     | Distinct_subsequences                                                       |
-| 3:                                     | Shortest_distance_in_a_graph_with_two_different_weights                     |
+| 1:                                     | Distance_of_nearest_cell_having_1_in_a_binary_matrix                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Distinct_subsequences                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Shortest_distance_in_a_graph_with_two_different_weights                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Tree_data_structure**                |
-| 1:                                     | 2 sum_binary_tree                                                           |
-| 2:                                     | Balanced_binary_tree                                                        |
-| 3:                                     | Binary_tree_from_inorder_and_postorder                                      |
-| 4:                                     | Binary_tree_paths                                                           |
-| 5:                                     | Bst_iterator                                                                |
-| 6:                                     | Check_for_bst_with_exactly_one_child_of_each_internal_nodes                 |
-| 7:                                     | Check_if_given_preorder,\_inorder_and_postorder_traversals_are_of_same_tree |
-| 8:                                     | Common_nodes_in_two_binary_search_trees                                     |
-| 9:                                     | Construct_binary_tree_from_inorder_and_preorder                             |
-| 10:                                    | Convert_an_arbitrary_binary_tree_to_a_tree_that_holds_children_sum_property |
-| 11:                                    | Count_bigger_ancestors                                                      |
-| 12:                                    | Cumulative_xor_queries                                                      |
-| 13:                                    | Decrypt_the_map                                                             |
-| 14:                                    | Difference_between_odd_and_even_levels                                      |
-| 15:                                    | Duplicates_in_binary_tree                                                   |
-| 16:                                    | Equal_tree_partition                                                        |
-| 17:                                    | Hotel_reviews                                                               |
-| 18:                                    | Identical_binary_trees                                                      |
-| 19:                                    | Inorder_traversal                                                           |
-| 20:                                    | Kth_smallest_element_in_tree                                                |
-| 21:                                    | Least_common_ancestor                                                       |
-| 22:                                    | Left_view_of_binary_tree                                                    |
-| 23:                                    | Longest_consecutive_sequence_in_binary_tree                                 |
-| 24:                                    | Mask_updates                                                                |
-| 25:                                    | Maximum_subtree                                                             |
-| 26:                                    | Min_depth_of_binary_tree                                                    |
-| 27:                                    | Node_distance_c_in_binary_tree                                              |
-| 28:                                    | Order_of_people_heights                                                     |
-| 29:                                    | Populate_next_right_pointers_tree                                           |
-| 30:                                    | Postorder_traversal                                                         |
-| 31:                                    | Power_of_3                                                                  |
-| 32:                                    | Preorder_traversal                                                          |
-| 33:                                    | Recover_binary_search_tree                                                  |
-| 34:                                    | Remove_nodes_from_path_sum_less_than_b                                      |
-| 35:                                    | Root_to_leaf_paths_with_sum                                                 |
-| 36:                                    | Segment_tree?                                                               |
-| 37:                                    | Shortest_unique_prefix                                                      |
-| 38:                                    | Smallest_subtree_with_all_the_deepest_nodes                                 |
-| 39:                                    | Smallest_xor_queries                                                        |
-| 40:                                    | Sorted_array_to_balanced_bst                                                |
-| 41:                                    | Subarrays_xor_less_than_b                                                   |
-| 42:                                    | Sum_binary_tree_or_not                                                      |
-| 43:                                    | Sum_root_to_leaf_numbers                                                    |
-| 44:                                    | Symmetric_binary_tree                                                       |
-| 45:                                    | Vertical_order_traversal_of_binary_tree                                     |
-| 46:                                    | Xor_queries_on_tree                                                         |
-| 47:                                    | Zigzag_level_order_traversal_bt                                             |
+| 1:                                     | 2 sum_binary_tree                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Balanced_binary_tree                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Binary_tree_from_inorder_and_postorder                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Binary_tree_paths                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Bst_iterator                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Check_for_bst_with_exactly_one_child_of_each_internal_nodes                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Check_if_given_preorder,\_inorder_and_postorder_traversals_are_of_same_tree |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Common_nodes_in_two_binary_search_trees                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 9:                                     | Construct_binary_tree_from_inorder_and_preorder                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 10:                                    | Convert_an_arbitrary_binary_tree_to_a_tree_that_holds_children_sum_property |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 11:                                    | Count_bigger_ancestors                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 12:                                    | Cumulative_xor_queries                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 13:                                    | Decrypt_the_map                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 14:                                    | Difference_between_odd_and_even_levels                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 15:                                    | Duplicates_in_binary_tree                                                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 16:                                    | Equal_tree_partition                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 17:                                    | Hotel_reviews                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 18:                                    | Identical_binary_trees                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 19:                                    | Inorder_traversal                                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 20:                                    | Kth_smallest_element_in_tree                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 21:                                    | Least_common_ancestor                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 22:                                    | Left_view_of_binary_tree                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 23:                                    | Longest_consecutive_sequence_in_binary_tree                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 24:                                    | Mask_updates                                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 25:                                    | Maximum_subtree                                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 26:                                    | Min_depth_of_binary_tree                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 27:                                    | Node_distance_c_in_binary_tree                                              |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 28:                                    | Order_of_people_heights                                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 29:                                    | Populate_next_right_pointers_tree                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 30:                                    | Postorder_traversal                                                         |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 31:                                    | Power_of_3                                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 32:                                    | Preorder_traversal                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 33:                                    | Recover_binary_search_tree                                                  |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 34:                                    | Remove_nodes_from_path_sum_less_than_b                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 35:                                    | Root_to_leaf_paths_with_sum                                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 36:                                    | Segment_tree?                                                               |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 37:                                    | Shortest_unique_prefix                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 38:                                    | Smallest_subtree_with_all_the_deepest_nodes                                 |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 39:                                    | Smallest_xor_queries                                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 40:                                    | Sorted_array_to_balanced_bst                                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 41:                                    | Subarrays_xor_less_than_b                                                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 42:                                    | Sum_binary_tree_or_not                                                      |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 43:                                    | Sum_root_to_leaf_numbers                                                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 44:                                    | Symmetric_binary_tree                                                       |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 45:                                    | Vertical_order_traversal_of_binary_tree                                     |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 46:                                    | Xor_queries_on_tree                                                         |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 47:                                    | Zigzag_level_order_traversal_bt                                             |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | **Two_pointers**                       |
-| 1:                                     | Container_with_most_water                                                   |
-| 2:                                     | Count_of_pairs_with_the_given_sum                                           |
-| 3:                                     | Count_of_pairs_with_the_given_sum_ii                                        |
-| 4:                                     | Count_of_rectangles_with_area_less_than_the_given_number                    |
-| 5:                                     | Counting_triangles                                                          |
-| 6:                                     | Find_sub array_with_the_given_sum                                           |
-| 7:                                     | Find_the_closest_pair_from_two_sorted_arrays                                |
-| 8:                                     | Minimize_the_absolute_difference                                            |
+| 1:                                     | Container_with_most_water                                                   |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 2:                                     | Count_of_pairs_with_the_given_sum                                           |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 3:                                     | Count_of_pairs_with_the_given_sum_ii                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 4:                                     | Count_of_rectangles_with_area_less_than_the_given_number                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 5:                                     | Counting_triangles                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Find_sub array_with_the_given_sum                                           | <ul><li> C++ :white_check_mark: </li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 7:                                     | Find_the_closest_pair_from_two_sorted_arrays                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 8:                                     | Minimize_the_absolute_difference                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
