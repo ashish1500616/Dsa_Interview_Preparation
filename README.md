@@ -344,6 +344,6 @@ Checkout **Solution** Branch For Solutions .
 | 3:                                     | Count_of_pairs_with_the_given_sum_ii                                        |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | 4:                                     | Count_of_rectangles_with_area_less_than_the_given_number                    |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | 5:                                     | Counting_triangles                                                          |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
-| 6:                                     | Find_sub array_with_the_given_sum                                           | <ul><li> C++ :white_check_mark: </li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
+| 6:                                     | Find_sub array_with_the_given_sum                                           | <ul><li> C++ :white_check_mark: </li><li> Java :white_check_mark: </li><li> Python </li> <li> Explanation. </li></ul>
 | 7:                                     | Find_the_closest_pair_from_two_sorted_arrays                                |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
 | 8:                                     | Minimize_the_absolute_difference                                            |<ul><li> C++</li><li> Java</li><li> Python </li> <li> Explanation. </li></ul>
